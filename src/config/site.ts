@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Infinitunes",
+  name: "Relix Tunes",
   url: "https://tunes.divyansh.tech",
   description:
     "A Simple Music Player Web App built using Next.js, shadcn/ui, TailwindCSS, DrizzleORM and more...",
